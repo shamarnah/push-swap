@@ -45,5 +45,6 @@ void		two(s_list **s);
 void		three(s_list **s);
 void		four(s_list **s, s_list **b);
 void		five(s_list **s, s_list **b);
+s_list		*indices(s_list **s);
 
 #endif
